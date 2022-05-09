@@ -1,0 +1,19 @@
+started: 8-5-2021 13:27:56
+
+
+852021:132756
+1476,vibrH
+1,1525,pokeL
+9210,vibrH
+2,9216,pokeL
+9291,vibrH
+3,9318,pokeL
+17777,vibrH
+4,17794,pokeL
+17860,vibrH
+5,17896,pokeL
+21260,vibrH
+6,21276,pokeL
+InL:6 InR:0 Iter:6 feedTimesL:0 feedTimesR:0
+
+

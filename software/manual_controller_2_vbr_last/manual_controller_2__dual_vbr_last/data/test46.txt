@@ -1,0 +1,42 @@
+started: 5-4-2021 14:48:35
+
+
+test46542021:144835
+0,1751,feedL
+0,2804,feedL
+0,3733,feedR
+0,4555,feedR
+0,5667,feedR
+0,6086,feedR
+InL:0 InR:0 Iter:0 feedTimesL:2 feedTimesR:4
+
+
+started: 5-4-2021 14:48:58
+
+
+test46542021:144858
+InL:0 InR:0 Iter:0 feedTimesL:0 feedTimesR:0
+
+
+started: 5-4-2021 14:49:14
+
+
+test46542021:144914
+0,26771,feedL
+0,27520,feedL
+0,28454,feedR
+0,28654,feedR
+InL:0 InR:0 Iter:0 feedTimesL:2 feedTimesR:2
+
+
+started: 5-4-2021 14:50:12
+
+
+test46542021:145012
+4069,vibrH
+1,4079,pokeL
+1,13916,feedL
+1,14384,feedR
+InL:1 InR:0 Iter:1 feedTimesL:1 feedTimesR:1
+
+

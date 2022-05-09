@@ -1,0 +1,13 @@
+started: 5-4-2021 14:52:6
+
+
+test64542021:14526
+7572,vibrH
+1,9346,pokeL
+11257,vibrH
+2,13271,pokeR
+2,15847,feedL
+2,16664,feedR
+InL:1 InR:1 Iter:2 feedTimesL:1 feedTimesR:1
+
+

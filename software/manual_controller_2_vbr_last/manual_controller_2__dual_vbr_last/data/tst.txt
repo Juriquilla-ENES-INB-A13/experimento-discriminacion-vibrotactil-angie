@@ -1,0 +1,25 @@
+started: 5-3-2021 16:5:22
+
+
+tst532021:16522
+3384,feed
+4586,feed
+10703,vibrH
+,13745pokeL
+InL:1 InR:0
+
+
+started: 5-3-2021 16:7:39
+
+
+tst532021:16739
+33764,feed
+34197,feed
+34781,feed
+35132,feed
+35861,feed
+40147,vibrH
+1,45961pokeL
+InL:1 InR:0
+
+
