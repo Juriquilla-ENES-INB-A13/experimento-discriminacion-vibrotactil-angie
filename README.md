@@ -8,7 +8,7 @@ This is the repo for Angie experiment. This include schematics and software also
 # Hardware
 
 * Arduino UNO Board
-* Skinner Duino Shield 
+* Skinner Duino Shield  [get files](https://github.com/Juriquilla-ENES-INB-A13/SkinnerDuino-shield)
 
 
 # Software
@@ -23,9 +23,20 @@ This is the repo for Angie experiment. This include schematics and software also
 
 # Sensors Connection
 
+
+
 ## Poke and Inside Sensor
 * FC-51 Obstacle distance IR sensor
-	
+* Connector from top
+	OUT GND VCC	
+
+## Peristaltic pump
+* Campden Instruments 80204A pump
+	* 24V - 28V
+	* Connections
+		* RED Power
+		* Blue Operate
+		* Green 0V/GND
 
 
 # Skinner Duino Connections
