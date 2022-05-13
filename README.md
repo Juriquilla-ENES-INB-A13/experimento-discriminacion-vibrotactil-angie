@@ -24,18 +24,12 @@ This is the repo for Angie experiment. This include schematics and software also
 
 NOTE: The application stores all exported experiments in a text format under the "DATA" folder, everytime the application is recompiled this folder is deleted, so before compiling the application you should copy all the folder to another place to avoid loosing info.
 
-
-
-
 # Hardware
 ## Requirements
 * Latest Arduino from www.arduino.cc
 	* Firmata library
 * Arduino UNO Board
 * Skinner Duino Shield  [get files](https://github.com/Juriquilla-ENES-INB-A13/SkinnerDuino-shield)
-
-
-
 
 # Sensors Connection
 
@@ -45,6 +39,8 @@ NOTE: The application stores all exported experiments in a text format under the
 	* 5V GND 7
 	* 5V GND 4
 	* 5V GND 2
+
+<img src="/images/annotated-connections.jpg" width="400" />
 
 	This pins are connected to the same numbered digital pins in Arduino UNO.
 
@@ -57,12 +53,12 @@ NOTE: The application stores all exported experiments in a text format under the
 	* The peristaltic pumps need between 24V to 26V so you need a power source with 5mm barrel connector.
 	* For avoiding issues, dont add or desolder ALL electrolitic capacitors, and the green LED.
 
-
-
 ## Poke and Inside Sensor
 * FC-51 Obstacle distance IR sensor
 * Connector from top
 	OUT GND VCC
+
+	<img src="/images/poke-sensor-connection.png" width="450"/>
 
 ## Peristaltic pump
 * Campden Instruments 80204A pump
@@ -71,6 +67,8 @@ NOTE: The application stores all exported experiments in a text format under the
 		* RED Power
 		* Blue Operate
 		* Green 0V/GND
+
+<img src="/images/peristaltic-pump-wiring.png" width="400" />
 
 # Skinner Duino Connections
 |Item                |  Port  |
