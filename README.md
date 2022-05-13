@@ -58,7 +58,7 @@ NOTE: The application stores all exported experiments in a text format under the
 * Connector from top
 	OUT GND VCC
 
-	<img src="/images/poke-sensor-connection.png" width="450"/>
+	<img src="/images/poke-sensor-wiring.png" width="450"/>
 
 ## Peristaltic pump
 * Campden Instruments 80204A pump
