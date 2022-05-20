@@ -14,6 +14,7 @@ This is the repo for Angie experiment. This include schematics and software also
 * How to crimp slim type harness[![How to crimp slim type harness](https://img.youtube.com/vi/8sHeR4Uozck/0.jpg)](https://www.youtube.com/watch?v=8sHeR4Uozck)
 * How to crimp molex type harness[![How to crimp molex type harness](https://img.youtube.com/vi/8jcfD1UW8SE/0.jpg)](https://www.youtube.com/watch?v=8jcfD1UW8SE) 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8sHeR4Uozck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Software
 
