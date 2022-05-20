@@ -1,4 +1,4 @@
-add4091e9992e9b9128a7a9375df81779a63b596# experimento-discriminacion-vibrotactil-angie
+experimento-discriminacion-vibrotactil-angie
 
 This is the repo for Angie experiment. This include schematics and software also a manual about how to connect it
 
