@@ -1,4 +1,4 @@
-# experimento-discriminacion-vibrotactil-angie
+add4091e9992e9b9128a7a9375df81779a63b596# experimento-discriminacion-vibrotactil-angie
 
 This is the repo for Angie experiment. This include schematics and software also a manual about how to connect it
 
@@ -13,6 +13,7 @@ This is the repo for Angie experiment. This include schematics and software also
 * [Working with wire](https://learn.sparkfun.com/tutorials/working-with-wire)
 * How to crimp slim type harness[![How to crimp slim type harness](https://img.youtube.com/vi/8sHeR4Uozck/0.jpg)](https://www.youtube.com/watch?v=8sHeR4Uozck)
 * How to crimp molex type harness[![How to crimp molex type harness](https://img.youtube.com/vi/8jcfD1UW8SE/0.jpg)](https://www.youtube.com/watch?v=8jcfD1UW8SE) 
+https://www.youtube.com/watch?v=8sHeR4Uozck
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8sHeR4Uozck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
