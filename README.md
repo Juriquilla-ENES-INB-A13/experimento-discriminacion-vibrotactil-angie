@@ -2,6 +2,19 @@
 
 This is the repo for Angie experiment. This include schematics and software also a manual about how to connect it
 
+
+# Tools
+* 28-20 AWG Crimping pliers [Sparkfun site](https://www.sparkfun.com/products/13193) 
+* 22-30 AWG Wire stripper [Sparkfun site](https://www.sparkfun.com/products/14762)
+* Flush cutter [Sparkfun site](https://www.sparkfun.com/products/14782)
+
+
+# How to
+* [Working with wire](https://learn.sparkfun.com/tutorials/working-with-wire)
+* [How to crimp slim type harness](https://www.youtube.com/watch?v=8sHeR4Uozck)
+* [How to crip molex type harness](https://www.youtube.com/watch?v=8jcfD1UW8SE) 
+
+
 # Software
 
 ## Requirements
