@@ -7,10 +7,10 @@ This is the repo for Angie experiment. This include schematics and software also
 * 22-30 AWG Wire stripper [Sparkfun site](https://www.sparkfun.com/products/14762)
 * Flush cutter [Sparkfun site](https://www.sparkfun.com/products/14782)
 
-# How to
-* [Working with wire](https://learn.sparkfun.com/tutorials/working-with-wire)
-* How to crimp slim type harness[![How to crimp slim type harness](https://img.youtube.com/vi/8sHeR4Uozck/0.jpg)](https://www.youtube.com/watch?v=8sHeR4Uozck)
-* How to crimp molex type harness[![How to crimp molex type harness](https://img.youtube.com/vi/8jcfD1UW8SE/0.jpg)](https://www.youtube.com/watch?v=8jcfD1UW8SE) 
+# How to links
+* Working with wire [(Sparkfun education site)](https://learn.sparkfun.com/tutorials/working-with-wire)
+* How to crimp slim type harness [(Youtube video)](https://www.youtube.com/watch?v=8sHeR4Uozck)
+* How to crimp molex type harness [(Youtube video)](https://www.youtube.com/watch?v=8jcfD1UW8SE) 
 
 
 # Software
@@ -43,12 +43,20 @@ NOTE: The application stores all exported experiments in a text format under the
 * 90° clamp holder
 * 16-28 AWG Crimping tool
 * 22-30 AWG Wire stripper tool
+* Soldering iron
+* Wire cutter
+* Angle wire cutter
+* Stripping wire tool
+
 
 ## Materials
 * 20m 22 AWG Wire (Yellow, white, red,blue)
 * [20 Dupont slim 4x1 connector](/images/dupont-slim4x1.jpeg)
 * [100 Dupont slim female ferrule](/images/dupont-slim-female.jpg)
 * [20 Female+male Molex 2510 3 pin with connectors](/images/molex-2510.jpg)
+* Rosin flux
+* RoHS Solder 0.7mm
+
 
 ## Requirements
 * Latest Arduino from www.arduino.cc
