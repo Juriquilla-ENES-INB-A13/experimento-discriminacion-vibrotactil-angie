@@ -6,6 +6,13 @@ This is the repo for Angie experiment. This include schematics and software also
 * 28-20 AWG Crimping pliers [Sparkfun site](https://www.sparkfun.com/products/13193) 
 * 22-30 AWG Wire stripper [Sparkfun site](https://www.sparkfun.com/products/14762)
 * Flush cutter [Sparkfun site](https://www.sparkfun.com/products/14782)
+## Tools
+* Cutter
+* Acrylic cutter
+* 90° clamp holder
+* Soldering iron
+* Wire cutter
+
 
 # How to links
 * Working with wire [(Sparkfun education site)](https://learn.sparkfun.com/tutorials/working-with-wire)
@@ -37,16 +44,7 @@ NOTE: The application stores all exported experiments in a text format under the
 
 # Hardware
 
-## Tools
-* Cutter
-* Acrylic cutter
-* 90° clamp holder
-* 16-28 AWG Crimping tool
-* 22-30 AWG Wire stripper tool
-* Soldering iron
-* Wire cutter
-* Angle wire cutter
-* Stripping wire tool
+
 
 
 ## Materials
