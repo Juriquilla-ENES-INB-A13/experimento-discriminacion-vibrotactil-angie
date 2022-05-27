@@ -1,17 +1,9 @@
-experimento-discriminacion-vibrotactil-angie
-
 This is the repo for Angie experiment. This include schematics and software also a manual about how to connect it
 
-# Tools
-* 28-20 AWG Crimping pliers [Sparkfun site](https://www.sparkfun.com/products/13193) 
-* 22-30 AWG Wire stripper [Sparkfun site](https://www.sparkfun.com/products/14762)
-* Flush cutter [Sparkfun site](https://www.sparkfun.com/products/14782)
-* Cutter
-* Acrylic cutter
-* 90° clamp holder
-* Soldering iron
-* Wire cutter
-
+This project its made using the following software:
+* Arduino IDE
+* Processing 3.x
+* Fritzing 0.9.x
 
 # How to links
 * Working with wire [(Sparkfun education site)](https://learn.sparkfun.com/tutorials/working-with-wire)
@@ -42,9 +34,15 @@ This is the repo for Angie experiment. This include schematics and software also
 NOTE: The application stores all exported experiments in a text format under the "DATA" folder, everytime the application is recompiled this folder is deleted, so before compiling the application you should copy all the folder to another place to avoid loosing info.
 
 # Hardware
-
-
-
+## Tools
+* 28-20 AWG Crimping pliers [Sparkfun site](https://www.sparkfun.com/products/13193) 
+* 22-30 AWG Wire stripper [Sparkfun site](https://www.sparkfun.com/products/14762)
+* Flush cutter [Sparkfun site](https://www.sparkfun.com/products/14782)
+* Cutter
+* Acrylic cutter
+* 90° clamp holder
+* Soldering iron
+* Wire cutter
 
 ## Materials
 * 20m 22 AWG Wire (Yellow, white, red,blue)
@@ -55,15 +53,16 @@ NOTE: The application stores all exported experiments in a text format under the
 * RoHS Solder 0.7mm
 
 
-## Requirements
+## Electronics
 * Latest Arduino from www.arduino.cc
 	* Firmata library
 * Arduino UNO Board
-* Skinner Duino Shield  [get files](https://github.com/Juriquilla-ENES-INB-A13/SkinnerDuino-shield)
+* Assembled Skinner Duino Shield  [get files](https://github.com/Juriquilla-ENES-INB-A13/SkinnerDuino-shield)
+* Assembled Power Servo PCB (under circuits folder)
 
-# Sensors Connection
+### Sensors Connection
 
-## SkinerDuino shield
+#### SkinerDuino shield
 * SkinnerDuino has a set of pins for sensors, and they are labeled as DIO, the wiring is as follows:
 	* 5V GND 8
 	* 5V GND 7
@@ -83,14 +82,14 @@ NOTE: The application stores all exported experiments in a text format under the
 	* The peristaltic pumps need between 24V to 26V so you need a power source with 5mm barrel connector.
 	* For avoiding issues, dont add or desolder ALL electrolitic capacitors, and the green LED.
 
-## Poke and Inside Sensor
+#### Poke and Inside Sensor
 * FC-51 Obstacle distance IR sensor
 * Connector from top
 	OUT GND VCC
 
 	<img src="/images/poke-sensor-wiring.png" width="450"/>
 
-## Peristaltic pump
+#### Peristaltic pump
 * Campden Instruments 80204A pump
 	* 24V - 28V
 	* Connections
@@ -100,7 +99,7 @@ NOTE: The application stores all exported experiments in a text format under the
 
 <img src="/images/peristaltic-pump-wiring.png" width="400" />
 
-# Skinner Duino Connections
+#### Skinner Duino Connections
 |Item                |  Port  |
 |--------------------|--------|
 |Vibration motor     |OUT 3.3V|
@@ -110,10 +109,12 @@ NOTE: The application stores all exported experiments in a text format under the
 |Servo door          |   4    |
 |Internal IR Sensor  |   2    |
 
-# Instructions
+# Software
+
+## Instructions
 The software needs a firmware called firmata, which has to be uploaded to the Arduino UNO Board
 
-## Arduino
+### Arduino
 1. Open Arduino IDE
 2. Install Firmata library
 3. Open menu "Examples -> firmata -> Standard firmata"
@@ -121,4 +122,4 @@ The software needs a firmware called firmata, which has to be uploaded to the Ar
 5. Check on menu "Tools -> Board" that "Arduino UNO" board is selected.
 6. Upload the firmware to the board.
 
-## Processing
+### Processing

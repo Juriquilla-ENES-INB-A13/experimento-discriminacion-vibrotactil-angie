@@ -1,0 +1,23 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Power Servo PCB
+*Date=15:26:55
+*CreatedBy=Fritzing 0.9.9b.2021-09-22.CD-348-0-f0af53a9
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;cpol-radial-1000uf-25v;18.1015;-33.3455;90;Bottom;C2
+2;;screwterminal-3.5mm-3_lock.007s;31.5492;-10.6831;90;Bottom;SIGNAL_IN
+3;;;19.9898;-20.0102;0;Bottom;Copper Fill1
+4;330;THT;11.6838;-22.372;90;Bottom;R1
+5;0.030;5 mm [THT];6.81718;-28.0178;-90;Bottom;LED1
+6;;screwterminal-3.5mm-3_lock.007s;31.9479;-32.0935;90;Bottom;SERVO
+7;;power_jack_pth;6.74261;-7.2466;90;Bottom;J2
+8;;;19.9898;-20.0102;0;Bottom;Copper Fill2
